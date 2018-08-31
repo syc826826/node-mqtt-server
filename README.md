@@ -3,4 +3,4 @@ a mqtt server in node.js.
 
 start server:
 
-node index.js
+$ node index.js
