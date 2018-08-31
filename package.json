@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "mqtt/server"
+  ],
+  "author": "MerlinSong",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
